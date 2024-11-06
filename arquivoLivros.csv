@@ -1,0 +1,65 @@
+codigo,autor,nome,paginas,gênero
+1002,"Aldous Huxley","Admirável Mundo Novo",264,Ficção
+1003,"J.R.R. Tolkien","O Senhor dos Anéis: A Irmandade do Anel",423,Ficção
+1004,"Gabriel García Márquez","Cem Anos de Solidão",448,Ficção
+1005,"Haruki Murakami","Kafka à Beira-Mar",432,Ficção
+1007,"Fiódor Dostoiévski","Crime e Castigo",560,Ficção
+1008,"Franz Kafka","O Processo",192,Ficção
+1009,"Mark Haddon","O Curioso Incidente do Cão à Meia-Noite",288,Ficção
+1010,"Leo Tolstói","Guerra e Paz",1200,Ficção
+1011,"Franz Kafka","A Metamorfose",120,Ficção
+1012,"Ursula K. Le Guin","A Mão Esquerda da Escuridão",312,Ficção
+1013,"Isaac Asimov",Fundação,456,Ficção
+1014,"Margaret Atwood","O Conto da Aia",368,Ficção
+1015,"Ray Bradbury","Fahrenheit 451",158,Ficção
+1016,"William Golding","O Senhor das Moscas",224,Ficção
+1017,"Cormac McCarthy","A Estrada",287,Ficção
+1018,"H.G. Wells","A Máquina do Tempo",160,Ficção
+1019,"Shirley Jackson","A Casa Aberta",295,Ficção
+1020,"Philip K. Dick","Androides Sonham com Ovelhas Elétricas?",256,Ficção
+1234,"George Orwell","A Revolução dos Bichos",100,Ficção
+1568,"George Orwell",1984,416,Ficção
+2001,"Jane Austen","Orgulho e Preconceito",352,Romance
+2002,"Emily Brontë","O Morro dos Ventos Uivantes",440,"Romance "
+2003,"Charles Dickens","Grandes Esperanças",528,Romance
+2004,"Nicholas Sparks","Um Amor para Recordar",336,"Romance "
+2005,"Leo Tolstói","Anna Kariênina",800,"Romance "
+2006,"E. L. James","Cinquenta Tons de Cinza",528,"Romance "
+2007,"Daphne du Maurier",Rebecca,448,Romance
+2008,"Colleen Hoover",Verity,336,"Romance "
+2009,"Mark Twain","As Aventuras de Huckleberry Finn",366,"Romance "
+2010,"Milan Kundera","A Insustentável Leveza do Ser",432,Romance
+3001,"Carlos Drummond de Andrade","Alguma Poesia",96,Poesia
+3002,"Fernando Pessoa","O Guardador de Rebanhos",120,Poesia
+3003,"William Blake","Canções da Inocência e da Experiência",112,Poesia
+3004,"Pablo Neruda","Cem Sonetos de Amor",192,Poesia
+3005,"Cecília Meireles","Romanceiro da Inconfidência",128,Poesia
+3006,"Walt Whitman","Folhas de Relva",384,Poesia
+3007,"Rainer Maria Rilke","Cartas a um Jovem Poeta",160,Poesia
+3008,"Emily Dickinson",Poemas,180,Poesia
+3009,"Vinícius de Moraes","Antologia Poética",220,Poesia
+3010,"João Cabral de Melo Neto","O Cão Sem Plumas",96,Poesia
+3011,"Manuel Bandeira",Libertinagem,150,Poesia
+3012,"Jorge Luis Borges","Fervor de Buenos Aires",240,Poesia
+3013,"Adélia Prado",Bagagem,160,Poesia
+3014,"Mário de Andrade","Poesias Completas",280,Poesia
+3015,"Sophia de Mello Breyner Andresen","O Nome das Coisas",140,Poesia
+3256,"Clarice Lispector","Água Viva",88,Romance
+3658,"J. K. Rowling","Harry Potter e a Pedra Filosofal",264,Infantil
+4001,"J.K. Rowling","Harry Potter e a Pedra Filosofal",285,Infantil
+4002,"Roald Dahl","Charlie e a Fábrica de Chocolate",224,Infantil
+4003,"Monteiro Lobato","O Sítio do Picapau Amarelo",160,Infantil
+4004,"L. Frank Baum","O Mágico de Oz",248,Infantil
+4005,"C.S. Lewis","As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",210,Infantil
+4006,"Ruth Rocha","O Reizinho Mandão",64,Infantil
+4007,"Maurício de Sousa","Turma da Mônica: A Volta ao Mundo",128,Infantil
+4008,"Dr. Seuss","O Grinch Que Roubou o Natal",72,Infantil
+4009,"Laura Vaccaro Seeger","O Livro da Família",40,Infantil
+4010,"Beatrix Potter","Peter Rabbit",80,Infantil
+4526,"Vitor Martins","15 Dias",208,Romance
+4865,"Machado de Assis",Helena,210,Romance
+5236,"Taylor Jenkins","Os sete maridos de Evelyn Hugo",360,Romance
+5623,"Caio Fernando Abreu","Morangos Mofados",192,Romance
+5674,"Lewis Carroll","Alice no País das Maravilhas",224,Ficção
+5689,"Machado de Assis","Dom Casmurro",208,Romance
+8569,"Stephenie Meyer",Twilight,480,Romance
